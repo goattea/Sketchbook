@@ -1,0 +1,6 @@
+{
+    "sketch": "button-switch-debounce.ino",
+    "output": "./build",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno"
+}
